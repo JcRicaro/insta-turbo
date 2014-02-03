@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8" />
-	<title>Shop Rewards System</title>
+	<title>InstaTurbo</title>
 
 	<meta name="description" content="overview &amp; stats" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -38,7 +38,7 @@
 			<a href="#" class="navbar-brand">
 				<small>
 					<i class="icon-leaf"></i>
-					Shop Rewards System
+					InstaTurbo
 				</small>
 			</a>
 		</div>
