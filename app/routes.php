@@ -15,3 +15,9 @@ Route::get('/', function()
 {
 	return View::make('hello');
 });
+
+Route::group(array('before' => 'auth'), function() {
+	Route::get('u/{username}', function($username) {
+		return View::make('')
+	});
+});
